@@ -33,14 +33,17 @@
         .animate-opac-0 {
             animation: opac 2s
         }
+
         .animate-opac {
             animation: opac 3s
         }
+
         .animate-opac-1 {
             animation: opac 3s forwards;
             animation-delay: .3s;
             opacity: 0;
         }
+
         .animate-opac-2 {
             animation: opac 3s forwards;
             animation-delay: .6s;
@@ -54,6 +57,12 @@
             to {
                 opacity: 1;
             }
+        }
+
+        .screenshot {
+            width: 300px;
+            height: auto;
+            display: block
         }
     </style>
 </head>
@@ -75,15 +84,31 @@
 </div>
 
 <div class="w3-padding w3-margin-top white animate-opac-2">
-    <h1 class="w3-xxlarge"><b>Herunterladen</b></h1>
-    <button class="w3-btn blue"><i class="fa fa-android"></i> Kostenlos für Android herunterladen</button>
+    <h1 class="w3-xxlarge"><b>Die App</b>
+        <a href="https://play.google.com/store/apps/details?id=com.foldrs" style="width: 200px; height: auto; display: inline-block">
+            <img class="w3-image" src="assets/google-play-badge.png"/>
+        </a>
+    </h1>
+
+    <h2>Schreiben</h2>
+    <div class="w3-row-padding w3-margin-top">
+        <img class="w3-third" src="assets/PublicFold.png">
+        <img class="w3-third" src="assets/FrienfoldErstellen.png">
+        <img class="w3-third" src="assets/ShareFriend.png">
+    </div>
+    <h2>Lesen</h2>
+    <div class="w3-row-padding w3-margin-top">
+        <img class="w3-third" src="assets/List.png">
+        <img class="w3-third" src="assets/HallOfFame.png">
+    </div>
+
 </div>
 
 <footer class="w3-container w3-padding-32 blue w3-center w3-margin-top animate-opac-2">
     <div class="w3-bar">
-        <a class="w3-button" href="impressum.html" >Impressum</a>
-        <a class="w3-button" href="privacy.html" >Datenschutzerklärung</a>
-        <a class="w3-button" href="terms.html" >AGB</a>
+        <a class="w3-button" href="impressum.html">Impressum</a>
+        <a class="w3-button" href="privacy.html">Datenschutzerklärung</a>
+        <a class="w3-button" href="terms.html">AGB</a>
     </div>
 </footer>
 </body>
