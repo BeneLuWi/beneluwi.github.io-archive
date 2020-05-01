@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wikiplaydia/static/css/main.e1d1bef3.chunk.css",
+    "main.js": "/wikiplaydia/static/js/main.65ac4761.chunk.js",
+    "main.js.map": "/wikiplaydia/static/js/main.65ac4761.chunk.js.map",
+    "runtime-main.js": "/wikiplaydia/static/js/runtime-main.14f875f8.js",
+    "runtime-main.js.map": "/wikiplaydia/static/js/runtime-main.14f875f8.js.map",
+    "static/js/2.6fa5bcc1.chunk.js": "/wikiplaydia/static/js/2.6fa5bcc1.chunk.js",
+    "static/js/2.6fa5bcc1.chunk.js.map": "/wikiplaydia/static/js/2.6fa5bcc1.chunk.js.map",
+    "index.html": "/wikiplaydia/index.html",
+    "precache-manifest.61e7989a5dcfd5f8a1b65b713fa5f563.js": "/wikiplaydia/precache-manifest.61e7989a5dcfd5f8a1b65b713fa5f563.js",
+    "service-worker.js": "/wikiplaydia/service-worker.js",
+    "static/css/main.e1d1bef3.chunk.css.map": "/wikiplaydia/static/css/main.e1d1bef3.chunk.css.map",
+    "static/js/2.6fa5bcc1.chunk.js.LICENSE.txt": "/wikiplaydia/static/js/2.6fa5bcc1.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/wikiplaydia/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14f875f8.js",
+    "static/js/2.6fa5bcc1.chunk.js",
+    "static/css/main.e1d1bef3.chunk.css",
+    "static/js/main.65ac4761.chunk.js"
+  ]
+}
