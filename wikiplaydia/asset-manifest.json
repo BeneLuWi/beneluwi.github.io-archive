@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/wikiplaydia/static/css/main.e1d1bef3.chunk.css",
-    "main.js": "/wikiplaydia/static/js/main.65ac4761.chunk.js",
-    "main.js.map": "/wikiplaydia/static/js/main.65ac4761.chunk.js.map",
+    "main.css": "/wikiplaydia/static/css/main.c61e228b.chunk.css",
+    "main.js": "/wikiplaydia/static/js/main.ba1a5593.chunk.js",
+    "main.js.map": "/wikiplaydia/static/js/main.ba1a5593.chunk.js.map",
     "runtime-main.js": "/wikiplaydia/static/js/runtime-main.14f875f8.js",
     "runtime-main.js.map": "/wikiplaydia/static/js/runtime-main.14f875f8.js.map",
-    "static/js/2.6fa5bcc1.chunk.js": "/wikiplaydia/static/js/2.6fa5bcc1.chunk.js",
-    "static/js/2.6fa5bcc1.chunk.js.map": "/wikiplaydia/static/js/2.6fa5bcc1.chunk.js.map",
+    "static/js/2.fa1a9b89.chunk.js": "/wikiplaydia/static/js/2.fa1a9b89.chunk.js",
+    "static/js/2.fa1a9b89.chunk.js.map": "/wikiplaydia/static/js/2.fa1a9b89.chunk.js.map",
     "index.html": "/wikiplaydia/index.html",
-    "precache-manifest.61e7989a5dcfd5f8a1b65b713fa5f563.js": "/wikiplaydia/precache-manifest.61e7989a5dcfd5f8a1b65b713fa5f563.js",
+    "precache-manifest.44512d5014d6dbad54b58c149df70c60.js": "/wikiplaydia/precache-manifest.44512d5014d6dbad54b58c149df70c60.js",
     "service-worker.js": "/wikiplaydia/service-worker.js",
-    "static/css/main.e1d1bef3.chunk.css.map": "/wikiplaydia/static/css/main.e1d1bef3.chunk.css.map",
-    "static/js/2.6fa5bcc1.chunk.js.LICENSE.txt": "/wikiplaydia/static/js/2.6fa5bcc1.chunk.js.LICENSE.txt",
+    "static/css/main.c61e228b.chunk.css.map": "/wikiplaydia/static/css/main.c61e228b.chunk.css.map",
+    "static/js/2.fa1a9b89.chunk.js.LICENSE.txt": "/wikiplaydia/static/js/2.fa1a9b89.chunk.js.LICENSE.txt",
     "static/media/all.css": "/wikiplaydia/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.14f875f8.js",
-    "static/js/2.6fa5bcc1.chunk.js",
-    "static/css/main.e1d1bef3.chunk.css",
-    "static/js/main.65ac4761.chunk.js"
+    "static/js/2.fa1a9b89.chunk.js",
+    "static/css/main.c61e228b.chunk.css",
+    "static/js/main.ba1a5593.chunk.js"
   ]
 }

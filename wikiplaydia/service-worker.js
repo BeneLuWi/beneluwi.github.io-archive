@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wikiplaydia/precache-manifest.61e7989a5dcfd5f8a1b65b713fa5f563.js"
+  "/wikiplaydia/precache-manifest.44512d5014d6dbad54b58c149df70c60.js"
 );
 
 self.addEventListener('message', (event) => {
