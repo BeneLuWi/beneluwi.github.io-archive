@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wikiplaydia/static/css/main.678744d7.chunk.css",
-    "main.js": "/wikiplaydia/static/js/main.2bc57bac.chunk.js",
-    "main.js.map": "/wikiplaydia/static/js/main.2bc57bac.chunk.js.map",
+    "main.js": "/wikiplaydia/static/js/main.bf6630fc.chunk.js",
+    "main.js.map": "/wikiplaydia/static/js/main.bf6630fc.chunk.js.map",
     "runtime-main.js": "/wikiplaydia/static/js/runtime-main.14f875f8.js",
     "runtime-main.js.map": "/wikiplaydia/static/js/runtime-main.14f875f8.js.map",
     "static/js/2.48bd4711.chunk.js": "/wikiplaydia/static/js/2.48bd4711.chunk.js",
     "static/js/2.48bd4711.chunk.js.map": "/wikiplaydia/static/js/2.48bd4711.chunk.js.map",
     "index.html": "/wikiplaydia/index.html",
-    "precache-manifest.6bfe51f4d6c8419ae665f0ee19b3baec.js": "/wikiplaydia/precache-manifest.6bfe51f4d6c8419ae665f0ee19b3baec.js",
+    "precache-manifest.06ec3e42cb3a05df69b127ec24a2cbb7.js": "/wikiplaydia/precache-manifest.06ec3e42cb3a05df69b127ec24a2cbb7.js",
     "service-worker.js": "/wikiplaydia/service-worker.js",
     "static/css/main.678744d7.chunk.css.map": "/wikiplaydia/static/css/main.678744d7.chunk.css.map",
     "static/js/2.48bd4711.chunk.js.LICENSE.txt": "/wikiplaydia/static/js/2.48bd4711.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.14f875f8.js",
     "static/js/2.48bd4711.chunk.js",
     "static/css/main.678744d7.chunk.css",
-    "static/js/main.2bc57bac.chunk.js"
+    "static/js/main.bf6630fc.chunk.js"
   ]
 }
