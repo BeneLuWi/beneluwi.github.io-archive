@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/wikiplaydia/static/css/main.c61e228b.chunk.css",
-    "main.js": "/wikiplaydia/static/js/main.ba1a5593.chunk.js",
-    "main.js.map": "/wikiplaydia/static/js/main.ba1a5593.chunk.js.map",
+    "main.css": "/wikiplaydia/static/css/main.678744d7.chunk.css",
+    "main.js": "/wikiplaydia/static/js/main.2bc57bac.chunk.js",
+    "main.js.map": "/wikiplaydia/static/js/main.2bc57bac.chunk.js.map",
     "runtime-main.js": "/wikiplaydia/static/js/runtime-main.14f875f8.js",
     "runtime-main.js.map": "/wikiplaydia/static/js/runtime-main.14f875f8.js.map",
-    "static/js/2.fa1a9b89.chunk.js": "/wikiplaydia/static/js/2.fa1a9b89.chunk.js",
-    "static/js/2.fa1a9b89.chunk.js.map": "/wikiplaydia/static/js/2.fa1a9b89.chunk.js.map",
+    "static/js/2.48bd4711.chunk.js": "/wikiplaydia/static/js/2.48bd4711.chunk.js",
+    "static/js/2.48bd4711.chunk.js.map": "/wikiplaydia/static/js/2.48bd4711.chunk.js.map",
     "index.html": "/wikiplaydia/index.html",
-    "precache-manifest.44512d5014d6dbad54b58c149df70c60.js": "/wikiplaydia/precache-manifest.44512d5014d6dbad54b58c149df70c60.js",
+    "precache-manifest.6bfe51f4d6c8419ae665f0ee19b3baec.js": "/wikiplaydia/precache-manifest.6bfe51f4d6c8419ae665f0ee19b3baec.js",
     "service-worker.js": "/wikiplaydia/service-worker.js",
-    "static/css/main.c61e228b.chunk.css.map": "/wikiplaydia/static/css/main.c61e228b.chunk.css.map",
-    "static/js/2.fa1a9b89.chunk.js.LICENSE.txt": "/wikiplaydia/static/js/2.fa1a9b89.chunk.js.LICENSE.txt",
-    "static/media/all.css": "/wikiplaydia/static/media/fa-solid-900.ec763292.svg"
+    "static/css/main.678744d7.chunk.css.map": "/wikiplaydia/static/css/main.678744d7.chunk.css.map",
+    "static/js/2.48bd4711.chunk.js.LICENSE.txt": "/wikiplaydia/static/js/2.48bd4711.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/wikiplaydia/static/media/fa-solid-900.ec763292.svg",
+    "static/media/logo-noback-256.png": "/wikiplaydia/static/media/logo-noback-256.8f258b77.png"
   },
   "entrypoints": [
     "static/js/runtime-main.14f875f8.js",
-    "static/js/2.fa1a9b89.chunk.js",
-    "static/css/main.c61e228b.chunk.css",
-    "static/js/main.ba1a5593.chunk.js"
+    "static/js/2.48bd4711.chunk.js",
+    "static/css/main.678744d7.chunk.css",
+    "static/js/main.2bc57bac.chunk.js"
   ]
 }
